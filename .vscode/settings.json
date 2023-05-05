@@ -1,7 +1,8 @@
 {
     "files.associations": {
         "ostream": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "new": "cpp"
     },
     "cmake.sourceDirectory": "/Users/minervaning/Documents/Courses/【CS】OOP/Cplusplus_lecture_notes/CPP/5-point"
 }
